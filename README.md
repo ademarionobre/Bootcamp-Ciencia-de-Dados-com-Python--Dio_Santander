@@ -2,8 +2,12 @@
 
 
 __________
-Este será o repositório do bootcamp Ciência de Dados com Pyhton, realizado na plataforma da DIO.me
-__________
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span> Este será o repositório do bootcamp Ciência de Dados com Pyhton, realizado na plataforma da DIO.me</span>
+</h1>  
+
 ## Descrição do bootcamp
 
 Mergulhe na trilha de ciência de dados com Python! Aprenda a linguagem e suas aplicações, domine bancos de dados SQL e NoSQL, desenvolva habilidades em visualização e análise de dados com Power BI, e explore os fundamentos e técnicas de machine learning. O Bootcamp também traz os princípios da Ciência de Dados, utilizando Python, uma das linguagens de programação mais utilizadas por cientistas de dados, por meio de cursos, desafios de projeto e desafios de código.  
