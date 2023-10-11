@@ -1,9 +1,9 @@
 # Módulo onboarding  
 ## Cursos:   
-- [ ] Versionamento de código com git e github
-- [ ] Organizando estudos e roadmap com o **Notion**
-- [ ] Desafio de projetos: Crie um portfólio vencedor
-- [ ] Desafio de projeto: Contribuindo em um projeto Open Source no GitHub
-- [ ] Mentoria: aula 1
+- [x] Versionamento de código com git e github
+- [x] Organizando estudos e roadmap com o **Notion**
+- [x] Desafio de projetos: Crie um portfólio vencedor
+- [x] Desafio de projeto: Contribuindo em um projeto Open Source no GitHub
+- [x] Mentoria: aula 1
 ______
 
