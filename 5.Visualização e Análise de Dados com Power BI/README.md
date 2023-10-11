@@ -1,9 +1,9 @@
 # Módulo abordando fundamentos de BI, análise de dados e uso da ferramenta PowerBI
 ## Cursos  
-- [ ] Fundamentos de Business Intelligence (BI)
-- [ ] Introdução a Análise de Dados com SQL
-- [ ] Fundamentos Teóricos Sobre ETL
-- [ ] Primeiros Passos com Power BI
+- [x] Fundamentos de Business Intelligence (BI)
+- [x] Introdução a Análise de Dados com SQL
+- [x] Fundamentos Teóricos Sobre ETL
+- [x] Primeiros Passos com Power BI
 - [ ] Trabalhando com Visuais no Power BI
 - [ ] Fundamentos de BI: KPIs e Métricas
 - [ ] Criando Dashboard Interativos com Power BI
