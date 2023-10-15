@@ -4,8 +4,8 @@
 - [x] Introdução a Análise de Dados com SQL
 - [x] Fundamentos Teóricos Sobre ETL
 - [x] Primeiros Passos com Power BI
-- [ ] Trabalhando com Visuais no Power BI
-- [ ] Fundamentos de BI: KPIs e Métricas
+- [x] Trabalhando com Visuais no Power BI
+- [x] Fundamentos de BI: KPIs e Métricas
 - [ ] Criando Dashboard Interativos com Power BI
 - [ ] Desafio de projeto: Criando um Relatório de Vendas Elegante com Power BI
 - [ ] Coleta e Extração de Dados com Power BI
