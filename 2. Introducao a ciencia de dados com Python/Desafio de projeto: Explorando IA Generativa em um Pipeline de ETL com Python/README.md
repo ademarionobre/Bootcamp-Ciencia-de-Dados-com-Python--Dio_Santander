@@ -40,13 +40,6 @@ Aprimorar a relação do cliente através da personalização de mensagens de ma
 
 Por meio da utilização e aplicação da **IA Generativa**, o desafio do projeto tem como objetivo modelar e melhorar a forma que a empresa se comunica com seus clientes. Ao criar mensagens de marketing personalizadas os clientes sentirão maior engajamento com seus fornecedores e satisfação com a marca.
 
----
-### Contato:
-
-<div>
-  <a href="https://linkedin.com/in/ademario-nobre" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black" target="_blank"></a>  
-  </div>
-
 ___________
 ###
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT) 
