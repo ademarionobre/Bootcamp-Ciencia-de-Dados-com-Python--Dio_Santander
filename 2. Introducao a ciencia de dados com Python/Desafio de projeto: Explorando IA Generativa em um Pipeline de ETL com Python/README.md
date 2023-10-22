@@ -12,7 +12,7 @@ Este passo ilustra como dados transformados são reintegrados em sistemas, compl
 Aprimorar a relação do cliente através da personalização de mensagens de marketing. Dispondo a IA Generativa para criar mensagens exclusivas de acordo com as necessidades de cada cliente.
 
 ### Conteúdo Repositório:
-- <strong>user_id.csv:</strong> Arquivo **.csv** com os dados utilizados no projeto.
+- <strong>usuario_id.csv:</strong> Arquivo **.csv** com os dados utilizados no projeto.
 - <strong>notebook:</strong> Jupyter notebook com o script do projeto e etapas.
 
 ### Linguagem e bibliotecas utilizada:
